@@ -163,11 +163,3 @@ export default App;
 // }
 
 // export default App
-
-
-
-// git init
-// git remote add origin https://github.com/vitor1221/calculadora-i3.git
-// git add .
-// git commit -m "Calculadora i3 em ReactJS"
-// git push -u origin master
